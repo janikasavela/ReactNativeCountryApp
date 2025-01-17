@@ -1,6 +1,6 @@
 # React Native
 
-Työstämäni sovellus opinnäytetyötä varten, jonka aiheena React Native. Teen puhelinsovelluksen, josta voi hakea eri maita ja nähdä niiden perustiedot, kuten mitä kieltä maassa puhutaan, maan lipun ja asukasluvun jne. Näkymään tulee myös kartta josta näkee maan sijainnin. Myös maan pääkaupungin säätiedot näytetään. Lopuksi ajattelin julkaista sovelluksen App Storeen sekä Google Play Storeen.
+Työstämäni sovellus opinnäytetyötä varten, jonka aiheena React Native. Teen puhelinsovelluksen, josta voi hakea eri maita ja nähdä niiden perustiedot, kuten mitä kieltä maassa puhutaan, maan lipun ja asukasluvun jne. Näkymään tulee myös kartta josta näkee maan sijainnin. Myös maan pääkaupungin säätiedot näytetään. Lopuksi ajattelin julkaista sovelluksen App Storeen sekä Google Play Storeen. Sovellus valmistuu helmikuun loppuun mennessä, alla olevat kuvat keskeneräisestä työstä.
 
 Maiden hakuun käyttämäni API: https://studies.cs.helsinki.fi/restcountries/
 Säätietojen hakuun käyttämäni API: https://openweathermap.org/
