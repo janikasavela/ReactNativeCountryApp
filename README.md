@@ -12,5 +12,5 @@ Jos maita on kymmenen tai alle mutta enemmän kuin yksi, näytetään hakuehdon 
 
 Kun ehdon täyttäviä maita on enää yksi, tai käyttäjä valitsee listalta tarkasteltavan maan, näytetään yksittäisen maan näkymä jossa näkyy laajasti maan eri tiedot, lippu ja sijainti kartalle yms.
 
-<img src="thumbnail_IMG_7077.png" alt="alt text" width="600"/>
 <img src="thumbnail_IMG_7075.png" alt="alt text" width="600"/>
+<img src="thumbnail_IMG_7077.png" alt="alt text" width="600"/>
