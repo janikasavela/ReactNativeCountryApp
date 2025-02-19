@@ -14,8 +14,8 @@ Kun ehdon täyttäviä maita on enää yksi, tai käyttäjä valitsee listalta t
 
 Lyhyt esittely video sovelluksen käytöstä: https://www.youtube.com/shorts/vu57qgLhZ_M
 
-<img src="kuva1.jpeg" alt="alt text" width="600"/>
-<img src="kuva2.jpeg" alt="alt text" width="600"/>
-<img src="3kuva.jpeg" alt="alt text" width="600"/>
-<img src="kuva4.jpeg" alt="alt text" width="600"/>
-<img src="kuva5.jpeg" alt="alt text" width="600"/>
+<img src="kuva1.jpeg" alt="alt text" width="450"/>
+<img src="kuva2.jpeg" alt="alt text" width="450"/>
+<img src="3kuva.jpeg" alt="alt text" width="450"/>
+<img src="kuva4.jpeg" alt="alt text" width="450"/>
+<img src="kuva5.jpeg" alt="alt text" width="450"/>
