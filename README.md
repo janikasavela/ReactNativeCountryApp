@@ -1,6 +1,6 @@
 # React Native
 
-Työstämäni sovellus opinnäytetyötä varten, jonka aiheena React Native. Teen puhelinsovelluksen, josta voi hakea eri maita ja nähdä niiden perustiedot, kuten mitä kieltä maassa puhutaan, maan lipun ja asukasluvun jne. Näkymään tulee myös kartta josta näkee maan sijainnin. Myös maan pääkaupungin säätiedot näytetään. Lopuksi ajattelin julkaista sovelluksen App Storeen sekä Google Play Storeen. Sovellus valmistuu helmikuun loppuun mennessä, alla olevat kuvat keskeneräisestä työstä.
+Työstämäni sovellus opinnäytetyötä varten, jonka aiheena React Native. Sovelluksessa voi hakea eri maita ja nähdä niiden perustiedot, kuten mitä kieltä maassa puhutaan, maan lipun sekä vaakunan ja asukasluvun jne. Näkymässä on myös linkki google mapsiin, joka näyttää suoraan maan sijainnin kartalla. Myös maan pääkaupungin säätiedot näytetään. Sovellus on muutoin valmis, tarkoituksena vielä julkaista se App Storeen sekä Google Play Storeen jos ylimääräistä aikaa jää opparin loppuvaiheessa.
 
 Maiden hakuun käyttämäni API: https://studies.cs.helsinki.fi/restcountries/
 Säätietojen hakuun käyttämäni API: https://openweathermap.org/
@@ -12,5 +12,10 @@ Jos maita on kymmenen tai alle mutta enemmän kuin yksi, näytetään hakuehdon 
 
 Kun ehdon täyttäviä maita on enää yksi, tai käyttäjä valitsee listalta tarkasteltavan maan, näytetään yksittäisen maan näkymä jossa näkyy laajasti maan eri tiedot, lippu ja sijainti kartalle yms.
 
-<img src="thumbnail_IMG_7075.png" alt="alt text" width="600"/>
-<img src="thumbnail_IMG_7077.png" alt="alt text" width="600"/>
+Lyhyt esittely video sovelluksen käytöstä: https://www.youtube.com/shorts/vu57qgLhZ_M
+
+<img src="kuva1.jpeg" alt="alt text" width="600"/>
+<img src="kuva2.jpeg" alt="alt text" width="600"/>
+<img src="3kuva.jpeg" alt="alt text" width="600"/>
+<img src="kuva4.jpeg" alt="alt text" width="600"/>
+<img src="kuva5.jpeg" alt="alt text" width="600"/>

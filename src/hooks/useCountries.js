@@ -16,7 +16,6 @@ const useCountries = () => {
     const fetchData = async () => {
       const fetcedCountries = await fetchCountries()
       setCountries(fetcedCountries)
-      console.log('HOOKISSA!!!:', fetcedCountries[0])
     }
 
     fetchData()
